@@ -4,5 +4,7 @@
 <a href="https://github.com/pdrgg/">
  <img src = "https://github-readme-stats.vercel.app/api?username=pdrgg&show_icons=true&theme=omni&line_height=27">
 </a>
-<a href="https://github.com/pdrgg/">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrgg&layout=compact></a>
+ 
+<a href="https://github.com/pdrgg/pdrgg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pdrgg&repo=convoychat" />
+</a>
