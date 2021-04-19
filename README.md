@@ -3,5 +3,5 @@
 <h3>• 💻Atualmente estou trabalho na <strong><a href="">itsuki</a></strong></h3>
 <a href="https://github.com/pdrgg/">
  <img src = "https://github-readme-stats.vercel.app/api?username=pdrgg&show_icons=true&theme=omni&line_height=27">
- 
 </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrgg&layout=compact>
