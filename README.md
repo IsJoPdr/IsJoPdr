@@ -5,4 +5,4 @@
  <img src = "https://github-readme-stats.vercel.app/api?username=pdrgg&show_icons=true&theme=algolia&line_height=27">
 </a>
 <a>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrgg&theme=omni&layout=compact"></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrgg&theme=algolia&layout=compact"></a>
